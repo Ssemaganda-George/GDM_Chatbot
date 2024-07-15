@@ -1,2 +1,2 @@
 # GDM_Chatbot
-Repo has a chatbot about gestationa;l diabetes.
+Repo has a chatbot about gestational diabetes.
